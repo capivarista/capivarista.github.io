@@ -15,3 +15,13 @@ document.addEventListener('DOMContentLoaded', function () {
         });
     });
 });
+
+$(document).ready(function() {
+    // Código para filtrar os projetos
+    $('#searchBar').on('keyup', function() {
+        var value = $(this).val().toLowerCase();
+        $('#projectCards .card').filter(function() {
+            $(this).toggle($(this).text().toLowerCase().indexOf(value) > -1)
+        });
+    });
+});

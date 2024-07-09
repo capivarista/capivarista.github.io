@@ -164,3 +164,25 @@ section {
     height: 30px;
   }
   
+  /* Adicionando espaçamento entre os cards do carrossel */
+.carousel-item .card {
+  margin-bottom: 1rem;
+}
+
+.card-body h5 {
+  font-size: 1.25rem;
+}
+
+.card-body p {
+  font-size: 1rem;
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+  background-color: black;
+  border-radius: 50%;
+}
+
+.carousel-inner {
+  margin-top: 1rem;
+}
