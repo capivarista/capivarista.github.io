@@ -1,15 +1,22 @@
 body {
     font-family: Arial, sans-serif;
-    background-image: radial-gradient( circle 815px at 23.4% -21.8%,  rgba(9,29,85,1) 0.2%, rgba(0,0,0,1) 100.2% );
+    background-image: linear-gradient( 111.4deg,  rgba(7,7,9,1) 6.5%, rgba(27,24,113,1) 93.2% );
+
+}
+.navbar{
+  background-image: linear-gradient( 85.2deg,  rgba(33,3,40,1) 7.5%, rgba(65,5,72,1) 88.7% );
 }
 
 .navbar-brand {
     font-size: 1.5rem;
+    
 }
 
 section {
+    background-image: linear-gradient( 85.2deg,  rgba(33,3,40,1) 7.5%, rgba(65,5,72,1) 88.7% );
     padding: 50px 0;
     border-radius: 10px;
+    color:aliceblue;
 }
 
 #sobre {
@@ -19,12 +26,12 @@ section {
 .card {
     width: 320px;
     height: 350px;
-    background: rgb(255, 255, 255);
+    background-image: radial-gradient( circle farthest-corner at 10% 20%,  rgba(100,43,115,1) 0%, rgba(4,0,4,1) 90% );
     border-radius: 0.4em;
     box-shadow: 0.3em 0.3em 0.7em #00000015;
     transition: border 0.5s cubic-bezier(0.175, 0.885, 0.32, 1.275);
     border: rgb(250, 250, 250) 0.2em solid;
-    margin: auto; /* Center the card */
+    margin: auto; 
     margin-bottom: 20px;
 }
 
@@ -79,16 +86,15 @@ section {
     display: flex;
     width: 250px;
     height: 50px;
-    /* gap: 1.2rem; */
     background-color: whitesmoke;
     border-radius: 115px;
     padding-inline: 15px;
     position: relative;
     justify-content: space-around;
-    /* align-items: center; */
   }
   
   .social-icons {
+    
     cursor: pointer;
     display: flex;
     transition: all 0.5s;
@@ -185,4 +191,15 @@ section {
 
 .carousel-inner {
   margin-top: 1rem;
+}
+
+.ver-mais {
+  margin-top: 20px;
+  padding: 10px 20px;
+  border: none;
+}
+
+.birita{
+    transform: translate(35%);
+  justify-content: center;
 }
