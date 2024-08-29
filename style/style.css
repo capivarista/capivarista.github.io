@@ -170,7 +170,6 @@ section {
     height: 30px;
   }
   
-  /* Adicionando espaçamento entre os cards do carrossel */
 .carousel-item .card {
   margin-bottom: 1rem;
 }
