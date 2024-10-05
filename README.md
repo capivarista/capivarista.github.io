@@ -44,6 +44,6 @@
 <div align="left">
   <a href="https://www.linkedin.com/in/ghabriel-antonio-716250284/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"   /></a>
   <a href=""><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  /></a>
-  <a href="https://www.linkedin.com/in/ghabriel-antonio-716250284/](https://www.instagram.com/ghabi._s2/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  /></a>
+  <a href="https://www.instagram.com/ghabi._s2/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  /></a>
 </div>
 
